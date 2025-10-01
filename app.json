@@ -6,9 +6,9 @@
   "success_url": "/",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "DARK-SILENCE-MD~PY0zEBaZ#4BbPCrRR63x4K6i_wzJwpmetJSO9TUhcFM74YXg85SQ",
       "required": true,
-      "value": ""
+      "value": "DARK-SILENCE-MD~PY0zEBaZ#4BbPCrRR63x4K6i_wzJwpmetJSO9TUhcFM74YXg85SQ"
     },  
     
     "ALIVE_IMG": {
